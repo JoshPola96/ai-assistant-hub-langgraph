@@ -18,6 +18,20 @@ AIAssistantHub-LangGraph orchestrates specialized agents to solve user queries i
 
 > *Please note: The free tier may experience spin-up delays during initial access after inactivity, and the project relies on free/open-source models and APIs leading to rate limits and modern LLM - LangGraph functionalities like function chaining, worked around using prompt engineering.*
 
+## Technologies Used
+
+* **Python 3.11.0**
+* **Streamlit:** For the interactive web application frontend.
+* **LangChain:** For building powerful LLM applications.
+* **LangGraph:** For robust stateful multi-agent orchestration.
+* **Google Generative AI (Gemma):** As the underlying Large Language Model.
+* **ChromaDB:** For local vector store (e.g., for Brainwonders RAG).
+* **Python-Dotenv:** For managing environment variables.
+* **Requests & BeautifulSoup4:** For web scraping.
+* **PyPDF2:** For PDF document parsing.
+* **Duckduckgo Search:** For query bsaed search.
+* **Beautifull Soup:** For fetching web content.
+
 ## 💻 Setup
 
 To get started with AIAssistantHub-LangGraph, follow these steps:
