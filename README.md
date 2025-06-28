@@ -136,14 +136,9 @@ AIAssistantHub-LangGraph comes with several specialized agents designed to handl
 
 Feel free to fork the repository, open issues, or suggest improvements. This is an evolving project, and contributions are very welcome\!
 
-## 🏁 Deployment
+## License
 
-You can deploy this application on platforms like Render or any other service supporting Streamlit:
-
-1.  Push your forked repository to GitHub.
-2.  Connect the repository on Render and select Python as the build environment.
-3.  Add your environment variables (from your `.env` file) to Render's configuration.
-4.  The application will auto-deploy.
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## ⚠️ Disclaimer
 
