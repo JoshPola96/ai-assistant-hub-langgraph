@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+*.env
+.pytest_cache/
+.mypy_cache/
+.streamlit/
+
+# Environment variables
+.env
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.DS_Store
+Thumbs.db

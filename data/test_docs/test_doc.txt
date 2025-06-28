@@ -1,0 +1,2 @@
+This is a test document for a generic RAG system. It contains information about generic concepts.
+The main idea behind this system is reusability across different knowledge bases.

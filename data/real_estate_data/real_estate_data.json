@@ -1,0 +1,418 @@
+{
+  "Mumbai": {
+    "apartment": [
+      {
+        "id": "MUMAPT001",
+        "name": "Sea View Residency",
+        "price": "1.25 Cr",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "area_sqft": 1550,
+        "location": "Worli, Mumbai",
+        "amenities": ["Gym", "Pool", "Parking", "24/7 Security"]
+      },
+      {
+        "id": "MUMAPT002",
+        "name": "Urban Nest Towers",
+        "price": "88 Lakhs",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area_sqft": 1020,
+        "location": "Andheri West, Mumbai",
+        "amenities": ["Parking", "24/7 Security", "Kids Play Area"]
+      },
+      {
+        "id": "MUMAPT003",
+        "name": "Mahalaxmi Heights",
+        "price": "2.1 Cr",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "area_sqft": 2200,
+        "location": "Mahalaxmi, Mumbai",
+        "amenities": ["Gym", "Pool", "Clubhouse", "Sea View", "Concierge"]
+      },
+      {
+        "id": "MUMAPT004",
+        "name": "Powai Grand Residency",
+        "price": "1.15 Cr",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "area_sqft": 1300,
+        "location": "Powai, Mumbai",
+        "amenities": ["Gym", "Kids Play Area", "Power Backup"]
+      },
+      {
+        "id": "MUMAPT005",
+        "name": "Borivali Oasis",
+        "price": "75 Lakhs",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area_sqft": 950,
+        "location": "Borivali East, Mumbai",
+        "amenities": ["Parking", "Garden"]
+      }
+    ],
+    "villa": [
+      {
+        "id": "MUMVIL001",
+        "name": "Lonavala Green Retreat",
+        "price": "4.5 Cr",
+        "bedrooms": 4,
+        "bathrooms": 5,
+        "area_sqft": 4500,
+        "location": "Lonavala (near Mumbai)",
+        "amenities": ["Private Pool", "Garden", "Servant Quarters", "Hill View"]
+      },
+      {
+        "id": "MUMVIL002",
+        "name": "Alibaug Beach Villa",
+        "price": "6.0 Cr",
+        "bedrooms": 5,
+        "bathrooms": 6,
+        "area_sqft": 6000,
+        "location": "Alibaug (near Mumbai)",
+        "amenities": ["Private Beach Access", "Swimming Pool", "Large Garden"]
+      }
+    ],
+    "plot": [
+      {
+        "id": "MUMPLT001",
+        "name": "Karjat Farm Plots",
+        "price": "75 Lakhs",
+        "area_sqft": 5000,
+        "location": "Karjat (near Mumbai)",
+        "amenities": ["Near Highway", "Fenced", "Good for Farming"]
+      }
+    ]
+  },
+  "Bangalore": {
+    "apartment": [
+      {
+        "id": "BLRAPT001",
+        "name": "Electronic City Residency",
+        "price": "78 Lakhs",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area_sqft": 1150,
+        "location": "Electronic City, Bangalore",
+        "amenities": ["Clubhouse", "Gym", "Sports Facilities"]
+      },
+      {
+        "id": "BLRAPT002",
+        "name": "Indiranagar Palms",
+        "price": "1.6 Cr",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "area_sqft": 1900,
+        "location": "Indiranagar, Bangalore",
+        "amenities": ["Concierge", "High-end finishes", "Terrace Garden"]
+      },
+      {
+        "id": "BLRAPT003",
+        "name": "Whitefield Grand Tower",
+        "price": "95 Lakhs",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "area_sqft": 1400,
+        "location": "Whitefield, Bangalore",
+        "amenities": ["Swimming Pool", "Kids Play Area", "Community Hall"]
+      },
+      {
+        "id": "BLRAPT004",
+        "name": "Koramanagala Greens",
+        "price": "1.3 Cr",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area_sqft": 1200,
+        "location": "Koramangala, Bangalore",
+        "amenities": ["Gym", "Cafeteria", "Parking"]
+      }
+    ],
+    "villa": [
+      {
+        "id": "BLRVIL001",
+        "name": "Sarjapur Road Opulence",
+        "price": "3.2 Cr",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "area_sqft": 3800,
+        "location": "Sarjapur Road, Bangalore",
+        "amenities": ["Private Garden", "Power Backup", "Security Camera"]
+      },
+      {
+        "id": "BLRVIL002",
+        "name": "Yelahanka Royal Villas",
+        "price": "2.8 Cr",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "area_sqft": 3200,
+        "location": "Yelahanka, Bangalore",
+        "amenities": ["Clubhouse", "Swimming Pool", "Green Space"]
+      }
+    ],
+    "plot": [
+      {
+        "id": "BLRPLT001",
+        "name": "Devanahalli Prime Plots",
+        "price": "55 Lakhs",
+        "area_sqft": 1800,
+        "location": "Devanahalli, Bangalore",
+        "amenities": ["Near Airport", "Developing Area", "Good for Investment"]
+      },
+      {
+        "id": "BLRPLT002",
+        "name": "Mysore Road Land Parcels",
+        "price": "45 Lakhs",
+        "area_sqft": 1500,
+        "location": "Mysore Road, Bangalore",
+        "amenities": ["Near Industrial Area"]
+      }
+    ]
+  },
+  "Delhi": {
+    "apartment": [
+      {
+        "id": "DELAPT001",
+        "name": "Dwarka Grand Apartments",
+        "price": "92 Lakhs",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area_sqft": 1250,
+        "location": "Dwarka, New Delhi",
+        "amenities": ["Gym", "Community Hall", "Parking"]
+      },
+      {
+        "id": "DELAPT002",
+        "name": "Vasant Kunj Heights",
+        "price": "2.5 Cr",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "area_sqft": 2500,
+        "location": "Vasant Kunj, New Delhi",
+        "amenities": ["High-end Security", "Servant Quarters", "Garden View"]
+      },
+      {
+        "id": "DELAPT003",
+        "name": "Greater Kailash Residency",
+        "price": "1.8 Cr",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "area_sqft": 1800,
+        "location": "Greater Kailash, New Delhi",
+        "amenities": ["Gym", "Power Backup"]
+      }
+    ],
+    "villa": [
+      {
+        "id": "DELVIL001",
+        "name": "Farmhouse Retreat Chattarpur",
+        "price": "7.0 Cr",
+        "bedrooms": 5,
+        "bathrooms": 6,
+        "area_sqft": 7000,
+        "location": "Chattarpur, New Delhi",
+        "amenities": ["Private Garden", "Swimming Pool", "Farmhouse Style"]
+      }
+    ],
+    "plot": [
+      {
+        "id": "DELPLT001",
+        "name": "Greater Noida Prime Plots",
+        "price": "80 Lakhs",
+        "area_sqft": 2800,
+        "location": "Greater Noida (near Delhi)",
+        "amenities": ["Close to Expressway", "Ready for Construction", "Commercial Potential"]
+      }
+    ]
+  },
+  "Pune": {
+    "apartment": [
+      {
+        "id": "PUNAPT001",
+        "name": "Koregaon Park Towers",
+        "price": "1.1 Cr",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "area_sqft": 1600,
+        "location": "Koregaon Park, Pune",
+        "amenities": ["Gym", "Pool", "Backup Power", "City View"]
+      },
+      {
+        "id": "PUNAPT002",
+        "name": "Hinjewadi IT Homes",
+        "price": "65 Lakhs",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area_sqft": 980,
+        "location": "Hinjewadi, Pune",
+        "amenities": ["Near IT Parks", "Parking"]
+      }
+    ],
+    "villa": [
+      {
+        "id": "PUNVIL001",
+        "name": "Lonavala Hill Villas",
+        "price": "3.5 Cr",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "area_sqft": 4000,
+        "location": "Lonavala (near Pune)",
+        "amenities": ["Hill View", "Private Garden", "Security"]
+      }
+    ],
+    "plot": [
+      {
+        "id": "PUNPLT001",
+        "name": "Talegaon Industrial Plots",
+        "price": "90 Lakhs",
+        "area_sqft": 6000,
+        "location": "Talegaon (near Pune)",
+        "amenities": ["Industrial Zone", "Highway Access"]
+      }
+    ]
+  },
+  "Chennai": {
+    "apartment": [
+      {
+        "id": "CHNAPT001",
+        "name": "OMR Tech Apartments",
+        "price": "80 Lakhs",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area_sqft": 1050,
+        "location": "OMR, Chennai",
+        "amenities": ["Gym", "Play Area"]
+      },
+      {
+        "id": "CHNAPT002",
+        "name": "Anna Nagar Residences",
+        "price": "1.9 Cr",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "area_sqft": 1950,
+        "location": "Anna Nagar, Chennai",
+        "amenities": ["High-end Finishes", "Prime Location"]
+      }
+    ]
+  },  
+  "Hyderabad": {
+    "apartment": [
+      {
+        "id": "HYDAPT001",
+        "name": "Gachibowli Heights",
+        "price": "1.05 Cr",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "area_sqft": 1650,
+        "location": "Gachibowli, Hyderabad",
+        "amenities": ["Gym", "Swimming Pool", "Community Hall"]
+      },
+      {
+        "id": "HYDAPT002",
+        "name": "Banjara Prestige",
+        "price": "2.0 Cr",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "area_sqft": 2300,
+        "location": "Banjara Hills, Hyderabad",
+        "amenities": ["Terrace Garden", "Concierge", "Covered Parking"]
+      }
+    ],
+    "villa": [
+      {
+        "id": "HYDVIL001",
+        "name": "Kompally Elite Villas",
+        "price": "3.7 Cr",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "area_sqft": 4200,
+        "location": "Kompally, Hyderabad",
+        "amenities": ["Private Garden", "Power Backup", "Security Camera"]
+      }
+    ],
+    "plot": [
+      {
+        "id": "HYDPLT001",
+        "name": "Shamshabad Residential Plots",
+        "price": "60 Lakhs",
+        "area_sqft": 2400,
+        "location": "Shamshabad, Hyderabad",
+        "amenities": ["Fenced", "Water Supply", "Gated Community"]
+      }
+    ]
+  },
+
+  "Ahmedabad": {
+    "apartment": [
+      {
+        "id": "AMDAPT001",
+        "name": "Satellite Residency",
+        "price": "85 Lakhs",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area_sqft": 1100,
+        "location": "Satellite, Ahmedabad",
+        "amenities": ["Gym", "Elevator", "Security"]
+      }
+    ],
+    "villa": [
+      {
+        "id": "AMDVIL001",
+        "name": "SG Highway Villas",
+        "price": "2.9 Cr",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "area_sqft": 3700,
+        "location": "SG Highway, Ahmedabad",
+        "amenities": ["Garden", "Car Parking", "CCTV Surveillance"]
+      }
+    ],
+    "plot": [
+      {
+        "id": "AMDPLT001",
+        "name": "Sanand Green Plots",
+        "price": "50 Lakhs",
+        "area_sqft": 2000,
+        "location": "Sanand, Ahmedabad",
+        "amenities": ["Road Access", "Electricity Connection"]
+      }
+    ]
+  },
+
+  "Jaipur": {
+    "apartment": [
+      {
+        "id": "JPRAPT001",
+        "name": "Malviya Nagar Heights",
+        "price": "78 Lakhs",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "area_sqft": 1250,
+        "location": "Malviya Nagar, Jaipur",
+        "amenities": ["Power Backup", "Lift", "Kids Play Area"]
+      }
+    ],
+    "villa": [
+      {
+        "id": "JPRVIL001",
+        "name": "Mansarovar Villas",
+        "price": "3.2 Cr",
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "area_sqft": 4500,
+        "location": "Mansarovar, Jaipur",
+        "amenities": ["Garden", "Private Terrace", "Parking"]
+      }
+    ],
+    "plot": [
+      {
+        "id": "JPRPLT001",
+        "name": "Ajmer Road Plots",
+        "price": "40 Lakhs",
+        "area_sqft": 1800,
+        "location": "Ajmer Road, Jaipur",
+        "amenities": ["Main Road Facing", "Boundary Wall", "Drainage"]
+      }
+    ]
+  }
+}
