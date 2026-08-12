@@ -9,6 +9,11 @@
 > runtime breakage on a fresh environment. What is on offer is the engineering
 > approach and the decisions behind it, not a guaranteed-green build.
 > Happy to bring it current if that would be useful — just ask.
+>
+> **Known blocker:** this project targets Google's `gemma-7b-it`, which has since
+> been retired from the hosted API. The retrieval, orchestration and UI layers are
+> unaffected — the model identifier needs swapping for a current one before it will
+> run. That swap is a configuration change, not a rewrite.
 
 A modular, multi-agent assistant framework powered by LangGraph, built to handle diverse and complex user queries intelligently.
 
