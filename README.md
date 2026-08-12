@@ -22,6 +22,16 @@ This is Version 1 (v1) — more agents, refinements, and features will be added 
 Experience the AI Assistant Hub live on Render:
 
 
+
+[**Launch AI Assistant Hub**](https://aiassistanthub-langgraph.onrender.com)
+
+> [!NOTE]
+> **The hosted demo may not respond.** It runs on free-tier hosting that sleeps,
+> expires and gets reclaimed without notice, and the app can return an HTTP 200
+> shell while failing to start behind it. The model it targets has also been
+> retired since. The link is kept for reference, not as a working product —
+> the repository is the deliverable.
+
 ## 🚀 Overview
 
 AIAssistantHub-LangGraph orchestrates specialized agents to solve user queries in a robust, reflective, and context-aware manner. It leverages:
