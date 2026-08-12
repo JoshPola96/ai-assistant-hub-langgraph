@@ -1,6 +1,6 @@
 # 🧠 AIAssistantHub-LangGraph
 
-> **Scope** · Personal project, actively maintained.
+> **Scope** · Personal project, built on my own time. Not actively maintained — it is finished, not tended.
 
 > [!NOTE]
 > **Built 2025. The ecosystem has moved since.**
