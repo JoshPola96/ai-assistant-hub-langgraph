@@ -16,7 +16,6 @@ This is Version 1 (v1) — more agents, refinements, and features will be added 
 
 Experience the AI Assistant Hub live on Render:
 
-🔗 **[Launch AI Assistant Hub](https://aiassistanthub-langgraph.onrender.com)**
 
 ## 🚀 Overview
 
