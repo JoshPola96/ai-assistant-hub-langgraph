@@ -1,5 +1,7 @@
 # 🧠 AIAssistantHub-LangGraph
 
+> **Scope** · Personal project, actively maintained.
+
 A modular, multi-agent assistant framework powered by LangGraph, built to handle diverse and complex user queries intelligently.
 
 This is Version 1 (v1) — more agents, refinements, and features will be added soon.
