@@ -2,6 +2,14 @@
 
 > **Scope** · Personal project, actively maintained.
 
+> [!NOTE]
+> **Built 2025. The ecosystem has moved since.**
+> Dependencies here are unpinned, so a clean `pip install` today resolves to
+> versions that did not exist when this was written and pandas 3.0, numpy 2.5 plus major releases of torch, ultralytics and transformers have all landed since. Expect install or
+> runtime breakage on a fresh environment. What is on offer is the engineering
+> approach and the decisions behind it, not a guaranteed-green build.
+> Happy to bring it current if that would be useful — just ask.
+
 A modular, multi-agent assistant framework powered by LangGraph, built to handle diverse and complex user queries intelligently.
 
 This is Version 1 (v1) — more agents, refinements, and features will be added soon.
