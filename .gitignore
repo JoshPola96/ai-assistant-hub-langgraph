@@ -1,3 +1,4 @@
+# .gitignore
 # Python
 __pycache__/
 *.pyc
@@ -21,3 +22,9 @@ venv/
 *.sublime-workspace
 *.DS_Store
 Thumbs.db
+.venv/
+.ipynb_checkpoints/
+*.log
+data/uploads/
+data/brainwonders_db/
+data/test_db/
